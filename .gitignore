@@ -1,0 +1,10 @@
+env
+*.ini
+venv
+*.pyc
+__pycache__/
+db.sqlite3
+.vscode/*
+*.lock
+.coverage
+htmlcov
